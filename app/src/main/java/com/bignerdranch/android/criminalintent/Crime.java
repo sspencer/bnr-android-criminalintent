@@ -28,7 +28,7 @@ public class Crime {
     }
 
     public void setTitle(String title) {
-        mTitle = mTitle;
+        mTitle = title;
     }
 
     public Date getDate() {
