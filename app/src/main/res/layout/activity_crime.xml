@@ -9,7 +9,7 @@
 
 
 
-    <include layout="@layout/content_crime" />
+    <include layout="@layout/content_fragment" />
 
 
 </android.support.design.widget.CoordinatorLayout>
